@@ -9,6 +9,8 @@ Computerforensics
 ComputerSEcurity
 Computertechs
 Coolgithubprojects
+cpp
+cpp_questions
 Crypto
 Cybersecurity
 DataHoarder
